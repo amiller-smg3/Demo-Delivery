@@ -6,7 +6,7 @@ Demo application to showcase how Salesforce can integrate with Android
 
 # Blog Post
 
-Please visit [Salesforce Test Data Factories](https://chicagocloudgroup.com/test-data-factory/) blog post for a deeper explanation of this repo.
+Please visit [DO ANDROIDS DREAM OF SALESFORCE CLOUDS?](https://chicagocloudgroup.com/do-androids-dream-of-salesforce-clouds/) blog post for a deeper explanation of this repo.
 
 Please feel free to fork and/or download this repo for your own uses.
 
